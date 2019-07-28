@@ -1,2 +1,2 @@
 # golangsamples
-golang kod parçacıklar
+Öğrendiğim Go Kod Örnekleri
