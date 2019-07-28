@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <title>{{.Title}}</title>
+    <meta name="description" content="{{.PageDescription}}">
+    <meta name="author" content="{{.Author}}">
+</head>
+<body>
+    <h1>{{.Header}}</h1>
+    <br><strong>Yazar :</strong> {{.Author}}</br>
+    <ul>
+        {{range .Friends}}
+          <li>{{.}}</li>
+        {{end}}
+    </ul>
+</body>
+</html>
