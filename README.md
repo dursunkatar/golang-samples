@@ -1,2 +1,2 @@
-# golangsamples
-Öğrendiğim Go Kod Örnekleri
+# golang-samples
+Ben ve Go
