@@ -1,0 +1,2 @@
+# golangsamples
+golang kod parçacıklar
